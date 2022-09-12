@@ -1,0 +1,47 @@
+.footer {
+    background-color: #272727;
+    /* background-color: #171524; */
+    /* background-color: #25262C; */
+    color: #0d0227;
+    /* color: #180545; */
+}
+
+.footer h5,
+.footer h6 {
+    color: white;
+}
+
+.footer p {
+    font-size: 14px;
+    color: #757171;
+    line-height: 10px;
+    /* color: #0d0227; */
+}
+
+.footer p:hover {
+    color: white;
+    text-decoration: underline;
+    cursor: pointer;
+    transition: 0.3s all linear;
+}
+
+
+.down {
+    padding-top: 50px;
+}
+
+.copyright {
+    text-align: center;
+    color: white;
+    padding-bottom: 10px;
+}
+
+.socials a {
+    font-size: 32px;
+    margin-right: 10px;
+}
+
+.socials a:hover {
+    color: white;
+    transition: 0.3s all linear;
+}

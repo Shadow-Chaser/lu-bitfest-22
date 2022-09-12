@@ -1,0 +1,17 @@
+.form-design {
+    width: 40%;
+}
+
+.input-design {
+    width: 100%;
+}
+
+.text-form {
+    font-weight: bold;
+}
+
+@media only screen and (max-width:688px) {
+    .form-design {
+        width: 90%;
+    }
+}
